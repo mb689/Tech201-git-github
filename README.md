@@ -14,3 +14,6 @@ Tech201-git-github
 - Made changes to the README.md file using nano
 - Saved the changes on local worksation
 - Pushed the changes onto github using 'git push' 
+
+
+![](github.png)
