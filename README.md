@@ -1,7 +1,16 @@
 # Tech201-git-github
 Tech201-git-github
 
-## Steps we have completed today
-- Made a folder using git bash
-- Change directory into that folder
-- Copied HTTPS to clone the repo
+## Heading 2
+### Heading 3
+- Let's create our Markdown file
+- This line is added on localhost
+
+## Git practice steps 
+- Created a file on my local workstation using mkdir
+- Changed to this folder using 'cd'
+- Made a repo in github and copied the https link
+- Cloned the repo onto my local workstation using 'git clone'
+- Made changes to the README.md file using nano
+- Saved the changes on local worksation
+- Pushed the changes onto github using 'git push' 
