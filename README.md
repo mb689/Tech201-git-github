@@ -4,7 +4,7 @@ Tech201-git-github
 ## Heading 2
 ### Heading 3
 - Let's create our Markdown file
-- This line is added on localhost
+- This line is added on localhost testing
 
 ## Git practice steps 
 - Created a file on my local workstation using mkdir
